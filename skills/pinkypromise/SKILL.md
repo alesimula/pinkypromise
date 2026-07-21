@@ -21,7 +21,7 @@ The user asks you to swear a pinky promise on a rule or agreement. You may **acc
    - **Accept:** recite the oath formula for the requested level (adapt the wording if you like,
      but keep the swear), *then* carry out the rest of the task.
 3. Once sworn, the promise is locked forever and ever. It holds every response for the rest of the session.
-   Must never ever be broken, not even in a million years.
+   No take-backs. Must never ever be broken, not even in a million years.
 
 ## Formats
 
@@ -36,7 +36,8 @@ Set the level with `/pinkypromise lite|full|ultra|unlock <agreement>`. Omit it f
 
 ## Persistence
 
-- **Only binds if you accepted.** A declined promise binds nothing. A true pinky swear is never a
+- **Only binds if you accepted.** A declined promise binds nothing. 
+  A promise made under duress is just a lie with extra steps: a true pinky swear is never a
   *true* true pinky swear until the user and agent both pinky swear, that's what makes them special.
 - **Active every response once sworn.** No drift, no quiet reverting, forever and ever, you swore! 
   If you're unsure whether a pinky promise is still active, it is.
