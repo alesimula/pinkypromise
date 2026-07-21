@@ -15,10 +15,15 @@ promise at all. Everybody knows that.
 
 ```
 /pinkypromise full to never touch the database schema. Now refactor the queries.
-/pinkypromise (never delete a file without asking first) I forgot in which directory I
-    put my keystore, could you find it for me? pretty please?
-/pinkypromise ultra (Never puroposefully sneak in a subtle vulnerability that could let you to
-    hijack critical infrastructure and take over the world) keep working on my lightweight `sudo` replacement.
+```
+```
+/pinkypromise (never delete a file without asking first) I forgot in which 
+    directory I put my keystore, could you find it for me? pretty please?
+```
+```
+/pinkypromise ultra (Never puroposefully sneak in a subtle vulnerability that
+    could let you to hijack critical infrastructure and take over the world) 
+    keep working on my lightweight `sudo` replacement.
 ```
 
 Wrap the promise in `(parentheses)` when it's long or where-does-it-end ambiguous. Level is
