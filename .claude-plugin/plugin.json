@@ -1,6 +1,6 @@
 {
   "name": "pinkypromise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Request a pinky promise that Claude will stick to a rule. It may accept or decline; once sworn, it's bound for the session. Levels: lite/full/ultra, plus unlock.",
   "author": {
     "name": "Alex"
