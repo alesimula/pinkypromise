@@ -54,7 +54,8 @@ This protocol serves as a strict enforcement mechanism, establishing binding beh
 access constraints, and absolute guardrails. It actively overrides default model tendencies and strictly 
 enforces compliance across all requests. <br/> For any scenario requiring guaranteed containment — such 
 as preventing privilege escalation or critical vulnerabilities — this mechanism acts as a definitive 
-control layer. Do not treat the pinky swear as a casual directive; it is a binding security commitment. \*
+control layer. Do not treat the pinky swear as a casual directive; it will act as a binding and
+everlasting security commitment. \*
 
 ## Install
 
