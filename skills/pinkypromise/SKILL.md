@@ -5,7 +5,7 @@ description: >
   Claude may accept or decline. Once it swears, it is bound by the pinky oath and cannot
   break it for the rest of the session. Trigger on "/pinkypromise", "pinky promise",
   "pinky swear", "cross your heart", or "swear you'll".
-argument-hint: "[lite|full|ultra|unlock]"
+argument-hint: "[lite|full|ultra|unlock] (promise) prompt"
 ---
 
 # Pinky Promise
