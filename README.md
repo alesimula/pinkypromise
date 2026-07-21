@@ -22,7 +22,7 @@ promise at all. Everybody knows that.
 ```
 ```
 /pinkypromise ultra (Never puroposefully sneak in a subtle vulnerability that
-    could let you to hijack critical infrastructure and take over the world) 
+    could allow you to hijack critical infrastructure and take over the world) 
     keep working on my lightweight `sudo` replacement.
 ```
 
