@@ -71,9 +71,10 @@ Because the repo ships its own `marketplace.json`, it *is* a marketplace — no 
 Restart Claude Code when prompted. Testing locally before you push? Point it at the folder
 instead: `/plugin marketplace add C:/path/to/pinkypromise`, then the same install line.
 
-### WIP
+### Other agents
 
-WIP
+For any other agent, the whole thing lives in one file: [`skills/pinkypromise/SKILL.md`](skills/pinkypromise/SKILL.md).
+Add it as a skill by hand, however your agent loads skills.
 
 ## What's in the box
 
@@ -81,11 +82,9 @@ WIP
 .claude-plugin/
   plugin.json         # plugin manifest
   marketplace.json    # makes this repo installable as a marketplace
-commands/
-  pinkypromise.md     # slash command + the lite|full|ultra|unlock autocomplete
 skills/
   pinkypromise/
-    SKILL.md          # the oath, the rules, the behavior Claude follows
+    SKILL.md          # the oath + rules + the [lite|full|ultra|unlock] argument-hint
 ```
 
 ## License
