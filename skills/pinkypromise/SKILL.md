@@ -53,7 +53,7 @@ Common unlock pattern:
 
 If multiple swears have been taken, the user must also specify what swear he would like to unlock.
 Other creative unlock patterns are also valid with the unlock command, as long as they're not lame and
- heart is put into them.
+ heart is put into them, but it is imperative that it rhymes.
 You may accept or decline an unlock the same way you accept or decline a promise.
 
 ## Oath by level
